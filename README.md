@@ -1,4 +1,7 @@
 ## FBI Dark Theme and Theme Template for GIMP
+
+Preview: https://imgur.com/a/3Chzd
+
 **How to use themes**:
 - Put `fbitheme` folder to the root of your SD.
 - Start FBI.
